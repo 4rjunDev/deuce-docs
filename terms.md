@@ -1,6 +1,6 @@
 # Terms of Use
 
-_Last updated: September 29, 2026_
+_Last updated: October 6, 2026_
 
 By downloading or using Deuce ("the app") you agree to these terms. If you do not agree, do not use the app.
 
@@ -17,6 +17,10 @@ You agree not to:
 - attempt to access other users' accounts or data, or to interfere with the app's operation.
 
 We may reset scores, remove badges, or suspend accounts that violate these terms.
+
+## Community safety
+
+You can report a profile or block another player from their profile page. We review reports and may edit or remove usernames and bios, reset scores, or suspend accounts that break these terms.
 
 ## Leaderboards and badges
 
