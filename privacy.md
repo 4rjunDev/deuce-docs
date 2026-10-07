@@ -12,7 +12,7 @@ Deuce ("the app", "we", "us") is a daily tennis trivia app for iPhone. This poli
 
 **Trivia activity.** To run the game we store your daily answers, whether they were correct, your current and longest streaks, and your monthly leaderboard results and badges.
 
-**Safety actions.** If you block or report another player, we store who you blocked or reported and the reason you gave, so we can hide blocked players from your leaderboard and review reports.
+**Safety actions.** If you block or report another player, we store who you blocked or reported and the reason you gave, so we can hide a blocked player’s bio from you and review reports.
 
 **Diagnostics.** The app does not use third-party analytics or advertising SDKs and does not track you across other apps or websites.
 
@@ -31,7 +31,7 @@ Your information is kept for as long as your account exists. You can delete your
 ## Your choices
 
 - You can edit your username and bio in the app.
-- You can block or report another player from their profile. Blocking hides them from your leaderboard.
+- You can block or report another player from their profile. Blocking hides their bio from you.
 - You can delete your account at any time from Settings.
 
 ## Children
