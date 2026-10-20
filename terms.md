@@ -1,6 +1,6 @@
 # Terms of Use
 
-_Last updated: October 6, 2026_
+_Last updated: October 20, 2026_
 
 By downloading or using Deuce ("the app") you agree to these terms. If you do not agree, do not use the app.
 
@@ -40,4 +40,4 @@ We may update these terms or discontinue the app at any time. Continued use afte
 
 ## Contact
 
-Questions about these terms: **[SUPPORT EMAIL]**
+Questions about these terms: **[arjund3vnani@gmail.com](mailto:arjund3vnani@gmail.com)**

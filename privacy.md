@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last updated: October 6, 2026_
+_Last updated: October 20, 2026_
 
 Deuce ("the app", "we", "us") is a daily tennis trivia app for iPhone. This policy explains what information the app collects, how it is used, and the choices you have.
 
@@ -14,15 +14,19 @@ Deuce ("the app", "we", "us") is a daily tennis trivia app for iPhone. This poli
 
 **Safety actions.** If you block or report another player, we store who you blocked or reported and the reason you gave, so we can hide a blocked player’s bio from you and review reports.
 
+**Article likes.** If you like an article in the News tab we store that like against your account. Likes are private to you and are not shown to other users.
+
+**Notifications.** If you allow notifications, the app sends your device's push notification token to our server so we can tell you when the day's question is released and when a new article is published. Each kind can be turned off separately in the app's Settings. The token identifies your device to Apple's push service only; it is not used for advertising or tracking, and it is deleted when you turn notifications off in Settings, sign out, or delete your account.
+
 **Diagnostics.** The app does not use third-party analytics or advertising SDKs and does not track you across other apps or websites.
 
 ## How we use information
 
-We use the information above only to operate the app: to sign you in, show your profile, score your daily answers, and run the monthly leaderboard and badges.
+We use the information above only to operate the app: to sign you in, show your profile, score your daily answers, run the monthly leaderboard and badges, and send the notifications you have allowed.
 
 ## Sharing
 
-We do not sell your information. We share it only with **Supabase**, which hosts our database and authentication. We may also disclose information if required by law.
+We do not sell your information. We share it only with **Supabase**, which hosts our database and authentication, and with **Apple's push notification service** to deliver notifications you have allowed. We may also disclose information if required by law.
 
 ## Retention and deletion
 
@@ -32,6 +36,7 @@ Your information is kept for as long as your account exists. You can delete your
 
 - You can edit your username and bio in the app.
 - You can block or report another player from their profile. Blocking hides their bio from you.
+- You can turn the daily question and new article notifications off at any time from **Settings → Notifications** in the app, or in iOS Settings.
 - You can delete your account at any time from Settings.
 
 ## Children
@@ -44,4 +49,4 @@ If we change this policy we will update the date above and, for material changes
 
 ## Contact
 
-Questions about this policy: **[SUPPORT EMAIL]**
+Questions about this policy: **[arjund3vnani@gmail.com](mailto:arjund3vnani@gmail.com)**

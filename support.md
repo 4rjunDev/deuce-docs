@@ -2,7 +2,7 @@
 
 Need help with Deuce, or want to report a problem?
 
-- Email: **[SUPPORT EMAIL]**
+- Email: **[arjund3vnani@gmail.com](mailto:arjund3vnani@gmail.com)**
 - Please include your device model, iOS version, and the app version shown in Settings.
 
 ## Deleting your account
