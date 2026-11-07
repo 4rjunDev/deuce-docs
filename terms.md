@@ -2,7 +2,7 @@
 
 _Last updated: October 20, 2026_
 
-By downloading or using Deuce ("the app") you agree to these terms. If you do not agree, do not use the app.
+By downloading or using Tennis IQ ("the app") you agree to these terms. If you do not agree, do not use the app.
 
 ## Your account
 
@@ -28,7 +28,7 @@ Leaderboard ranks and badges are for fun and have no cash value. Monthly results
 
 ## Trivia content
 
-We work to keep questions accurate, but mistakes can happen. If a question turns out to be wrong, we may correct it and adjust results. Names of tournaments and players belong to their respective owners; Deuce is not affiliated with or endorsed by the ATP, WTA, ITF, or any tournament.
+We work to keep questions accurate, but mistakes can happen. If a question turns out to be wrong, we may correct it and adjust results. Names of tournaments and players belong to their respective owners; Tennis IQ is not affiliated with or endorsed by the ATP, WTA, ITF, or any tournament.
 
 ## Disclaimer and limitation of liability
 
@@ -40,4 +40,4 @@ We may update these terms or discontinue the app at any time. Continued use afte
 
 ## Contact
 
-Questions about these terms: **[arjund3vnani@gmail.com](mailto:arjund3vnani@gmail.com)**
+Questions about these terms: **[tennisiqnews@gmail.com](mailto:tennisiqnews@gmail.com)**

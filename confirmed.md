@@ -4,7 +4,7 @@ title: Email confirmed
 
 # You’re all set
 
-Your email address is confirmed. Open the Deuce app on your iPhone and sign in to play today’s question.
+Your email address is confirmed. Open the Tennis IQ app on your iPhone and sign in to play today’s question.
 
 If you opened this page by mistake, you can close it. Nothing else is needed.
 
