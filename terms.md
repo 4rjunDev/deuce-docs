@@ -40,4 +40,4 @@ We may update these terms or discontinue the app at any time. Continued use afte
 
 ## Contact
 
-Questions about these terms: **[arjund3vnani@gmail.com](mailto:arjund3vnani@gmail.com)**
+Questions about these terms: **[tennisiqnews@gmail.com](mailto:tennisiqnews@gmail.com)**

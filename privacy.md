@@ -49,4 +49,4 @@ If we change this policy we will update the date above and, for material changes
 
 ## Contact
 
-Questions about this policy: **[arjund3vnani@gmail.com](mailto:arjund3vnani@gmail.com)**
+Questions about this policy: **[tennisiqnews@gmail.com](mailto:tennisiqnews@gmail.com)**

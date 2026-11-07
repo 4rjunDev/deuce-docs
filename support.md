@@ -2,7 +2,7 @@
 
 Need help with Tennis IQ, or want to report a problem?
 
-- Email: **[arjund3vnani@gmail.com](mailto:arjund3vnani@gmail.com)**
+- Email: **[tennisiqnews@gmail.com](mailto:tennisiqnews@gmail.com)**
 - Please include your device model, iOS version, and the app version shown in Settings.
 
 ## Deleting your account
