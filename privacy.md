@@ -2,7 +2,7 @@
 
 _Last updated: October 20, 2026_
 
-Deuce ("the app", "we", "us") is a daily tennis trivia app for iPhone. This policy explains what information the app collects, how it is used, and the choices you have.
+Tennis IQ ("the app", "we", "us") is a daily tennis trivia app for iPhone. This policy explains what information the app collects, how it is used, and the choices you have.
 
 ## Information we collect
 
@@ -41,7 +41,7 @@ Your information is kept for as long as your account exists. You can delete your
 
 ## Children
 
-Deuce is not directed to children under 13, and we do not knowingly collect personal information from them. If you believe a child has created an account, contact us and we will delete it.
+Tennis IQ is not directed to children under 13, and we do not knowingly collect personal information from them. If you believe a child has created an account, contact us and we will delete it.
 
 ## Changes
 
